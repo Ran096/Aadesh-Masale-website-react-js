@@ -1,7 +1,10 @@
 * {
- 
     padding: 0;
     margin: 0;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");body,html {
+  max-width: 100vw;
+  font-family: Poppins,sans-serif!important
 }
 body {
   background-color: #FFFFFF;
